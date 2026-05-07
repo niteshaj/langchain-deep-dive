@@ -1,2 +1,3 @@
-# langchain-deep-dive
+# Langchain Deep Dive
+
 Welcome to LangChain deep dive course!
