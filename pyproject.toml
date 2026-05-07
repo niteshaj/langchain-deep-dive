@@ -16,4 +16,6 @@ members = [
     "mcp",
     "foundational",
     "tools",
+    "project",
+    "guardrails",
 ]
