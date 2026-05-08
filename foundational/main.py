@@ -1,5 +1,4 @@
 import os
-from urllib import response
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 
